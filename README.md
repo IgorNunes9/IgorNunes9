@@ -1,5 +1,5 @@
-## Hi there 👋
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2Ffunniest-animated-gifs-of-the-week--339599628132843763%2F&psig=AOvVaw2QlwWDUrQU9F5K1nww90NC&ust=1717093336941000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIj9gqi9s4YDFQAAAAAdAAAAABAD](link)
+## Estou no Uatizape 🧭
+
 
 <!--
 **IgorNunes9/IgorNunes9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
