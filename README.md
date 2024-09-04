@@ -1,6 +1,6 @@
 こんにちは、私の名前はイゴールです
-Estou fazendo o curso da Alura
-Só estou aqui por conta da escola
+Estou fazendo o curso da Alura.
+Só estou aqui por conta da escola,
 Gosto de xadrez ♟
 ## Estou no Uatizape 🧭
 
